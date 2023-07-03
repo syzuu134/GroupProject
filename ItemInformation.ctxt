@@ -1,0 +1,32 @@
+#BlueJ class context
+comment0.target=ItemInformation
+comment1.params=
+comment1.target=ItemInformation()
+comment10.params=
+comment10.target=java.lang.String\ getItemName()
+comment11.params=
+comment11.target=double\ getItemPrice()
+comment12.params=
+comment12.target=java.lang.String\ getDatePurchase()
+comment13.params=
+comment13.target=double\ getTotalPrice()
+comment13.text=public\ int\ getTotalItem()\r\n\ \ \ \ {\r\n\ \ \ \ \ \ \ \ if(getID().equals(getID()))\r\n\ \ \ \ \ \ \ \ {\r\n\ \ \ \ \ \ \ \ \ \ \ \ totalItem++;\r\n\ \ \ \ \ \ \ \ }\r\n\ \ \ \ \ \ \ \ else\r\n\ \ \ \ \ \ \ \ {\r\n\ \ \ \ \ \ \ \ \ \ \ \ totalItem\ \=\ 1;\r\n\ \ \ \ \ \ \ \ }\r\n\ \ \ \ \ \ \ \ return\ totalItem;\r\n}
+comment14.params=
+comment14.target=java.lang.String\ toString()
+comment2.params=ID\ cp\ id\ name\ price\ date\ totItem
+comment2.target=ItemInformation(java.lang.String,\ double,\ java.lang.String,\ java.lang.String,\ double,\ java.lang.String,\ int)
+comment3.params=ID\ cp\ id\ name\ price\ date\ totItem
+comment3.target=void\ setItemInformation(java.lang.String,\ double,\ java.lang.String,\ java.lang.String,\ double,\ java.lang.String,\ int)
+comment4.params=id
+comment4.target=void\ setItemId(java.lang.String)
+comment5.params=name
+comment5.target=void\ setItemName(java.lang.String)
+comment6.params=price
+comment6.target=void\ setItemPrice(double)
+comment7.params=date
+comment7.target=void\ setDatepurchase(java.lang.String)
+comment8.params=totItem
+comment8.target=void\ setTotalItem(int)
+comment9.params=
+comment9.target=java.lang.String\ getItemId()
+numComments=15
